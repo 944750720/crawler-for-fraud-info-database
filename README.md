@@ -22,4 +22,4 @@ If you are running this on Jupyter Notebook/Colab, you need to download the pack
 playwright install-deps
 pip install nest_asyncio # asynchronous running package
 ```
-And use `async_main.py` when running.
+And use `async_main.ipynb` when running.
